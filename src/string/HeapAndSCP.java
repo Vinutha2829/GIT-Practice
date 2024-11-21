@@ -1,0 +1,16 @@
+package string;
+
+public class HeapAndSCP {
+
+	public static void main(String[] args) {
+		String s=new String("you cannot change me");
+		String s1=new String("you cannot change me");
+		String s2="you cannot change me";
+		String s3="YOU CANNOT CHANGE ME";
+		String s4="you cannot change me";
+		System.out.println(s2==s3);
+		System.out.println(s2==s4);
+
+	}
+
+}
