@@ -10,6 +10,7 @@ public class HeapAndSCP {
 		String s4="you cannot change ME";
 		System.out.println(s2==s3);
 		System.out.println(s2==s4);
+		System.out.println(s2==s4);
 
 	}
 
